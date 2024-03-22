@@ -33,6 +33,7 @@ Borrow = A’B
 
 
 **Truthtable**
+
 ![Screenshot 2024-03-22 124019](https://github.com/Dhanaalakshmi/HALF_ADDER_SUBTRACTOR/assets/155127252/02743f47-eaff-46fd-bbeb-ee19eff18c83)
 
 **Procedure**
@@ -74,6 +75,7 @@ RegisterNumber: 212223040033
 ```
 
 **RTL Schematic**
+
 ![Screenshot 2024-03-22 123934](https://github.com/Dhanaalakshmi/HALF_ADDER_SUBTRACTOR/assets/155127252/9dc9e535-07e2-44aa-915a-e1731cf79c64)
 
 **Output/TIMING Waveform**
